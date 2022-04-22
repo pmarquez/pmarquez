@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# Paulo Márquez Herrero
+### 🌱 I’m currently learning ...
+* Integration Testing with **Postman** & **Newman**
+* Distributed tracing and logging with **OpenTelemetry**
 <!--
 **pmarquez/pmarquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
