@@ -28,7 +28,7 @@
 * Distributed tracing and logging with **OpenTelemetry**
 * Security with **Keycloak** & **OpenID**
 * API First with **OpenAPI 3.X**
-* Madkdown with **Docusaurus**
+* Markdown with **Docusaurus**
 
  <br/>
 <!--
