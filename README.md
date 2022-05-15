@@ -1,9 +1,10 @@
 # Paulo Márquez Herrero
 
-## 🔭 What I am ...
+## 🔭 Who I am ...
 * Java Architect
 * Microservices Freak
 * API First advocate
+* MT Biker and Martial Arts student.
 
 ## 💻 My regular tools ...
 <br/>
@@ -29,7 +30,7 @@
 * Security with **Keycloak** & **OpenID**
 * API First with **OpenAPI 3.X**
 * Markdown with **Docusaurus**
-* Service Autodiscovery with **Spring Cloud** & **Consul**
+* Service Registration and Autodiscovery with **Spring Cloud** & **Consul**
 
  <br/>
 <!--
