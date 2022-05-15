@@ -22,7 +22,7 @@
  <img alt="Tomcat" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
  <img alt="vsCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  <img alt="markdown" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
- <img alt="markdown" height="40" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/openapis/openapis-ar21.svg" />
+ <img alt="markdown" height="40" src="https://raw.githubusercontent.com/NordStar-KINESIK/docs-repo/b840ae4fdddeb8a1d71ba54ff5c047631da61929/assets/svg-icons/openapi/openapis-ar21.svg" />
 </p>
 
 ## 🌱 I’m currently learning ...
