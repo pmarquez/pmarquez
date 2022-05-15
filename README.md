@@ -29,6 +29,7 @@
 * Security with **Keycloak** & **OpenID**
 * API First with **OpenAPI 3.X**
 * Markdown with **Docusaurus**
+* Service Autodiscovery with **Spring Cloud** & **Consul**
 
  <br/>
 <!--
