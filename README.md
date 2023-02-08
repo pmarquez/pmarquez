@@ -29,12 +29,15 @@
 </p>
 
 ## 🌱 I’m currently learning ...
+* Apache Kafka
+* Software Architecture Patterns
+* API Gateways
+* GraphQL & gRPC
 * Integration Testing with **Postman** & **Newman**
 * Distributed tracing and logging with **OpenTelemetry**
 * Security with **Keycloak** & **OpenID**
 * API First with **OpenAPI 3.X**
 * Markdown with **Docusaurus**
-* Service Registration and Autodiscovery with **Spring Cloud** & **Consul**
 
  <br/>
 <!--
