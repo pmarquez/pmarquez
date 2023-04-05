@@ -29,6 +29,7 @@
 </p>
 
 ## 🌱 I’m currently learning ...
+* React.js
 * Apache Kafka
 * Software Architecture Patterns
 * API Gateways
