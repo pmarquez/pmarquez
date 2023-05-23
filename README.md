@@ -26,15 +26,15 @@
 </p>
 
 ## 🌱 I’m currently learning ...
+* ChatGPT
+* StableDiffussion
+* AI
 * React.js
 * Apache Kafka
 * Software Architecture Patterns
 * API Gateways
 * GraphQL & gRPC
 * Integration Testing with **Postman** & **Newman**
-* Distributed tracing and logging with **OpenTelemetry**
-* Security with **Keycloak** & **OpenID**
-* API First with **OpenAPI 3.X**
 * Markdown with **Docusaurus**
 
  <br/>
