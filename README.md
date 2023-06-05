@@ -26,15 +26,16 @@
 </p>
 
 ## 🌱 I’m currently learning ...
-* ChatGPT
+* ChatGPT (model training & API integration)
 * StableDiffussion
-* AI
+* AI in general.
+* Integration Testing with **Postman** & **Newman**
+* Postman Flows
 * React.js
 * Apache Kafka
 * Software Architecture Patterns
 * API Gateways
 * GraphQL & gRPC
-* Integration Testing with **Postman** & **Newman**
 * Markdown with **Docusaurus**
 
  <br/>
