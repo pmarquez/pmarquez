@@ -26,7 +26,8 @@
 </p>
 
 ## 🌱 I’m currently learning ...
-* ChatGPT (model training & API integration)
+* BARD (model training & API integration)
+* GPT4 (model training & API integration)
 * StableDiffussion
 * AI in general.
 * Integration Testing with **Postman** & **Newman**
