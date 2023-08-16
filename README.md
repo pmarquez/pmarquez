@@ -5,7 +5,7 @@
 * Java Architect
 * Microservices Advocate (but not a blind fanatic)
 * API First proponent
-* Martial Arts lifelong learner, MT Biker and Bowler.
+* Martial Arts lifelong learner, MT Biker.
 
 ## 💻 My regular tools ...
 <br/>
