@@ -26,7 +26,7 @@
 </p>
 
 ## 🌱 I’m currently learning ...
-* BARD (model training & API integration)
+* BARD (model training & (as it becomes available) API integration)
 * GPT4 (model training & API integration)
 * StableDiffussion
 * AI in general.
