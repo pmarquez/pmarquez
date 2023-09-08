@@ -26,6 +26,7 @@
 </p>
 
 ## 🌱 I’m currently learning ...
+* Apache Kafka
 * BARD (model training & (as it becomes available) API integration)
 * GPT4 (model training & API integration)
 * StableDiffussion
@@ -33,7 +34,6 @@
 * Integration Testing with **Postman** & **Newman**
 * Postman Flows
 * React.js
-* Apache Kafka
 * Software Architecture Patterns
 * API Gateways
 * GraphQL & gRPC
