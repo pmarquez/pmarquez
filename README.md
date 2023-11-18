@@ -26,7 +26,9 @@
 </p>
 
 ## 🌱 I’m currently learning ...
-* Apache Kafka
+* Apache Kafka.
+* Reactive microservices.
+* AWS Bedrock Fine Tuning & RAG (Retrieval Augmented Generation)
 * BARD (model training & (as it becomes available) API integration)
 * GPT4 (model training & API integration)
 * StableDiffussion
