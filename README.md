@@ -2,7 +2,7 @@
 
 ## 🔭 Who I am ...
 * eCommerce Solution Architect
-* Java Architect
+* Kotlin/Java Architect
 * Microservices Advocate (but not a blind fanatic)
 * API First proponent
 * Martial Arts lifelong learner, MT Biker.
