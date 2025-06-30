@@ -29,6 +29,7 @@
 </p>
 
 ## 🌱 I’m currently learning ...
+* Tailwind CSS
 * Apache Kafka.
 * Reactive microservices.
 * AWS Bedrock Fine Tuning & RAG (Retrieval Augmented Generation)
