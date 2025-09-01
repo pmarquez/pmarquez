@@ -30,20 +30,20 @@
 
 ## 🌱 I’m currently learning ...
 * Tailwind CSS
+* Markdown with **Docusaurus**
 * Apache Kafka.
 * Reactive microservices.
-* AWS Bedrock Fine Tuning & RAG (Retrieval Augmented Generation)
-* BARD (model training & (as it becomes available) API integration)
-* GPT4 (model training & API integration)
-* StableDiffussion
-* AI in general.
-* Integration Testing with **Postman** & **Newman**
+* Integration Testing with **Postman**
 * Postman Flows
 * React.js
+* AWS Bedrock Fine Tuning & RAG (Retrieval Augmented Generation)
+* BARD (model training & (as it becomes available) API integration)
+* GPTx (model training & API integration)
+* StableDiffussion
+* AI in general.
 * Software Architecture Patterns
 * API Gateways
 * GraphQL & gRPC
-* Markdown with **Docusaurus**
 
  <br/>
 <!--
