@@ -7,6 +7,7 @@
 * Microservices Advocate (but not a blind fanatic)
 * API First proponent
 * Martial Arts lifelong learner, MT Biker.
+* Bowler (Rookie)
 
 ## 💻 My regular tools ...
 <br/>
