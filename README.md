@@ -30,22 +30,14 @@
 </p>
 
 ## 🌱 I’m currently learning ...
-* Tailwind CSS
-* Markdown with **Docusaurus**
+* META Cloud APIs
+* TailWindCSS
 * Apache Kafka.
 * Reactive microservices.
-* Integration Testing with **Postman**
-* Postman Flows
-* React.js
-* AWS Bedrock Fine Tuning & RAG (Retrieval Augmented Generation)
-* BARD (model training & (as it becomes available) API integration)
 * GPTx (model training & API integration)
-* StableDiffussion
 * AI in general.
 * Software Architecture Patterns
-* API Gateways
 * GraphQL & gRPC
-
  <br/>
 <!--
 
