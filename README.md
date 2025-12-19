@@ -2,11 +2,13 @@
 
 ## 🔭 What I Do ...
 * nsOmniStore Architect and Tech Lead
+* Business Process Automation Consultant
 * eCommerce Solution Architect
 * Kotlin/Java Architect
 * Microservices Advocate (but not a blind fanatic)
 * API First proponent
-* Martial Arts lifelong learner, MT Biker.
+* Martial Arts lifelong learner
+* MT Biker
 * Bowler (Rookie)
 
 ## 💻 My regular tools ...
@@ -30,6 +32,9 @@
 </p>
 
 ## 🌱 I’m currently learning ...
+* n8n
+* MCP
+* Agentic IA
 * META Cloud APIs
 * TailWindCSS
 * Apache Kafka.
