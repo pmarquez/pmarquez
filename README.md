@@ -1,7 +1,7 @@
 # Paulo Márquez Herrero
 
 ## 🔭 What I Do ...
-* nsOmniStore Architect and Tech Lead
+* nsOmniStore Solution Architect and Tech Lead
 * Business Process Automation Consultant
 * eCommerce Solution Architect
 * Kotlin/Java Architect
