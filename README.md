@@ -3,7 +3,6 @@
 ## 🔭 What I Do ...
 * nsOmniStore Solution Architect and Tech Lead
 * Business Process Automation Consultant
-* eCommerce Solution Architect
 * Kotlin/Java Architect
 * Microservices Advocate (but not a blind fanatic)
 * API First proponent
@@ -33,9 +32,9 @@
 
 ## 🌱 I’m currently learning ...
 * n8n
-* MCP
+* RAG & MCP
 * Agentic IA
-* META Cloud APIs
+* META Cloud APIs (Leaning on WhatsApp Cloud API)
 * TailWindCSS
 * Apache Kafka.
 * Reactive microservices.
