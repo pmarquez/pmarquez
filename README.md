@@ -31,6 +31,9 @@
 </p>
 
 ## 🌱 I’m currently learning ...
+* Claude.ai
+* Claude Code
+* Claude Cowork
 * n8n
 * RAG & MCP
 * Agentic IA
@@ -38,8 +41,6 @@
 * TailWindCSS
 * Apache Kafka.
 * Reactive microservices.
-* GPTx (model training & API integration)
-* AI in general.
 * Software Architecture Patterns
 * GraphQL & gRPC
  <br/>
