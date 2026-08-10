@@ -22,7 +22,7 @@
  <img alt="nestjs" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
  <img alt="redis" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
  <img alt="mysql" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <img alt="postgres" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+ <img alt="n8n" height="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/n8n/default.svg" />
  <img alt="docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
  <img alt="Spring" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
  <img alt="Claude" height="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" />
@@ -33,14 +33,9 @@
 </p>
 
 ## 🌱 I’m currently learning ...
-* Claude.ai
-* Claude Code
-* Claude Cowork
-* n8n
 * RAG & MCP
 * Agentic IA
 * META Cloud APIs (Leaning on WhatsApp Cloud API)
-* TailWindCSS
 * Apache Kafka.
 * Reactive microservices.
 * Software Architecture Patterns
