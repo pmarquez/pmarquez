@@ -25,8 +25,10 @@
  <img alt="postgres" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
  <img alt="docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
  <img alt="Spring" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
- <img alt="mongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+ <img alt="Claude" height="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" />
  <img alt="vsCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+ <img alt="Astro" height="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/astro/astro-original.svg" />
+ <img alt="Flyway" height="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/flyway/default.svg" />
  <img alt="OpenAPI" height="40" src="https://raw.githubusercontent.com/NordStar-KINESIK/docs-repo/b840ae4fdddeb8a1d71ba54ff5c047631da61929/assets/svg-icons/openapi/openapis-ar21.svg" />
 </p>
 
